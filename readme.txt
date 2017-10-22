@@ -1,0 +1,1 @@
+The binance_api.p file contains the code for the Python language. It is intended for writing bots for trading on the Binance exchange. Examples of using commands are described in the same file and are commented out.
