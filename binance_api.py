@@ -320,7 +320,6 @@ def askbid(symbol):
     while j<1e20:
         r = hr24(symbol)
         if (r=='error') :
-            print('hr24, error, all_pairs=', r)
             time.sleep(time_sleep)
             j=j+1
         else:
